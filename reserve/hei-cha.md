@@ -12,4 +12,4 @@ La couleur de la liqueur du thé est liée au degré de fermentation. Moins le p
 
 Là il faut que je parle de "la fermentation".
 
-![logo](../logo.jpg)
+![logo](../logo.webp)
