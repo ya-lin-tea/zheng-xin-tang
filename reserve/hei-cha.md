@@ -11,3 +11,5 @@ Je dois clarifier la fameuse couleur *bleue*. Dans le chinois ancien, le mot "**
 La couleur de la liqueur du thé est liée au degré de fermentation. Moins le pourcentage de la fermentation est fort, plus la couleur de la liqueur est verte/jaune. Par exemple : Le thé vert a un faible taux de fermentation et la couleur de sa liqueur est vert jaunâtre. Le thé rouge est un thé pleinnement fermenté et la couleur de sa liqueur est ambré/brun. Qu'en est-il du thé noir ?
 
 Là il faut que je parle de "la fermentation".
+
+![dégustation de thé](yu-lan.jpg)
