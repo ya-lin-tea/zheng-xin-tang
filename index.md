@@ -33,8 +33,9 @@ Première gorgée. Le thé reste dans la moitié arrière de la bouche, toujours
 
 Deuxième gorgée. Elle est très similaire à la précédente.
 
-La dégustation s'achève ici, mais j'ai le pressentiment que si on poursuivait la dégustation, le goût en lui-même ne changerait pas, seule son intensité diminuerait au fil des infusions.                          _ Nolwen Bizien
+La dégustation s'achève ici, mais j'ai le pressentiment que si on poursuivait la dégustation, le goût en lui-même ne changerait pas, seule son intensité diminuerait au fil des infusions.   _ Nolwen Bizien
 
+![degustation](degustation.webp)
  
 
 Nolwen est une novice de thé, elle bois de temps en temps de Wulong et de thé rouge avec moi sans avoir des notions sur les thés.
