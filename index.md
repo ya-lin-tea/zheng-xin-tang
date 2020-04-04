@@ -13,25 +13,21 @@ Je sens une odeur subtile à la première inspiration, mais quand j'inspire une 
 
  ![table de dégustation](ya-lin.webp)
 
-### Première infusion
+## Première infusion
 
 Première gorgée. Le thé se dévoile timidement. Le goût est plus fort que l'odeur. Le thé reste dans le fond de la bouche, à l'entrée de la gorge.
 
 Deuxième gorgée. Je ressens énormément l'amertume, qui reste dans le fond de la bouche, sur le palais.
 
-Troisième gorgée. Je ressens un nouveau goût, plus fruité, qui reste sur le palais juste à l'avant de l'amertume. Il me fait penser à un petit fruit rond, très doux, comme un fruit de prunier.
+Troisième gorgée. Je ressens un nouveau goût, plus fruité, qui reste sur le palais juste à l'avant de l'amertume. Il me fait penser à un petit fruit rond, très doux, comme un fruit de prunier. 
 
- 
-
-Deuxième infusion
+## Deuxième infusion
 
 Première gorgée. Le thé est en équilibre dans la bouche, je le ressens partout, excepté peut-être à l'avant de la bouche. Il n'y a plus du tout d'amertume, si ce sont les restes de la première infusion. Il ne reste plus que le goût fruité, qui perdure très longtemps en bouche.
 
-Deuxième gorgée (thé refroidi). Cette gorgée poursuit la précédente. Je ressens toujours l'amertume de la première infusion, mais elle est dans la gorge et très atténuée ; elle met en valeur le goût fruité et doux.
+Deuxième gorgée (thé refroidi). Cette gorgée poursuit la précédente. Je ressens toujours l'amertume de la première infusion, mais elle est dans la gorge et très atténuée ; elle met en valeur le goût fruité et doux. 
 
- 
-
-Troisième infusion
+## Troisième infusion
 
 Première gorgée. Le thé reste dans la moitié arrière de la bouche, toujours fruité et très doux. A la première gorgée de la première infusion, le thé est vraiment tout au fond de la bouche ; au fur et à mesure des gorgées, il se rapproche petit à petit de l'entrée de la bouche, sans jamais franchir une certaine limite.
 
