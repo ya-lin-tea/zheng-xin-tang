@@ -4,23 +4,16 @@ layout: home
 
 ![logo de l'école](/assets/image/logo-zheng-xin-tang.webp)
 
-Dégustation édition spécial
+# Dégustation édition spécial
+_March 27, 2020_
 
-March 27, 2020
-
-|
-
-Nolwen Bizien et Ya Lin
-
- 
-
-Feuilles sèches
+## Feuilles sèches
 
 Je sens une odeur subtile à la première inspiration, mais quand j'inspire une deuxième fois je ne la sens plus. Ça me rappelle quand je suis surprise par une odeur de pin : je la sens bien la première fois, mais ne la retrouve plus quand je la cherche. Il faudrait presque la laisser de côté, ne plus y prêter attention pour y revenir.
 
- 
+ ![table de dégustation](ya-lin.webp)
 
-Première infusion
+### Première infusion
 
 Première gorgée. Le thé se dévoile timidement. Le goût est plus fort que l'odeur. Le thé reste dans le fond de la bouche, à l'entrée de la gorge.
 
