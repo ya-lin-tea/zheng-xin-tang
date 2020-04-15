@@ -2,28 +2,18 @@
 
 Ce matin-là, la première fleur de lotus de mon jardin m'attandait grâcieusement au bord de ma fenêtre, c'était de bon augure !!
 
- 
+![Fleur de Lotus](image/lotus.webp)
 
+A 10:00 j'ai retrouvé Marie-Cécile et Nelly C., toutes les deux radieuses sur la pelouse près de l'entrée principale du parc de Procé. Peu après, Nelly L. et Jim sont arrivés avec leurs sourires lumineux.
 
-    A 10:00 j'ai retrouvé Marie-Cécile et Nelly C., toutes les deux radieuses sur la pelouse près de l'entrée principale du parc de Procé. Peu après, Nelly L. et Jim sont arrivés avec leurs sourires lumineux.
+Nous nous sommes installés en cercle sous l'ombre d'un arbre. Merci à lui de nous avoir offert ce petit bout de paradis !
 
-    Nous nous sommes installés en cercle sous l'ombre d'un arbre. Merci à lui de nous avoir offert ce petit bout de paradis !
+La première infusion est lancée dans le silence. Chacun est pleinement conscient de chaque geste apporté.
 
- 
+M-C nous a proposé un Da Hong Pao.
+Nelly L. nous a présenté un Wulong de Thaïlande "Ruby".
 
-
-   La première infusion est lancée dans le silence. Chacun est pleinement conscient de chaque geste apporté.
-
- 
-
-
-                                                   M-C nous a proposé un Da Hong Pao.
-
-
-                                       Nelly L. nous a présenté un Wulong de Thaïlande "Ruby".
-
-
-                                                     Maxime, un Tie Guan Yin de Taiwan.
+Maxime, un Tie Guan Yin de Taiwan.
 
 
                                              Jim nous a fait goûter un Sheng Pu Er de 2013.
