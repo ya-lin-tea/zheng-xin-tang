@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![tea banner](/images/banner.jpg)

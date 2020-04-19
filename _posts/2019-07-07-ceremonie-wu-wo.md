@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 無我茶會 La cérémonie du thé Wu-Wo
+author: Ya-Lin
+excerpt: >
+  Ce matin-là, la première fleur de lotus de mon jardin m'attandait grâcieusement au bord de ma fenêtre, c'était de bon augure !!
+  À 10:00 j'ai retrouvé Marie-Cécile et Nelly C., toutes les deux radieuses sur la pelouse près de l'entrée principale du parc de Procé. Peu..
 ---
 
 ![Fleur de Lotus](/images/2019-07-07-lotus.jpg)
