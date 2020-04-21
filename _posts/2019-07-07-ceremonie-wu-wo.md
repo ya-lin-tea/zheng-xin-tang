@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 無我茶會 La cérémonie du thé Wu-Wo
 author: Ya-Lin
 excerpt: >

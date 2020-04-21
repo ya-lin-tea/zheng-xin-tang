@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: single
 title: Dégustation pédagogique
 author: Ya-Lin
 excerpt: >
     Dimanche dernier, je voulais commencer cette nouvelle année en proposant une expérience inédite à mes élèves.
 ---
-
-# Dégustation pédagogique
 
 Dimanche dernier, je voulais commencer cette nouvelle année en proposant une expérience inédite à mes élèves.
 

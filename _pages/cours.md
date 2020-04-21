@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: Inscription
+author: Ya-Lin
 permalink: /inscription/
 ---
 

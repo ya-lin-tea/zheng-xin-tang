@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Dégustation, édition spéciale
 author: Ya-Lin et Nolwenn Bizien
 excerpt: >
   Je sens une odeur subtile à la première inspiration, mais quand j'inspire une deuxième fois je ne la sens plus. Ça me rappelle quand je suis surprise par une odeur de pin : je la sens bien la première fois, mais ne la retrouve plus quand je la cherche. I...
 ---
 
-# Dégustation édition spéciale
-
-![Nolwenn](/images/2020-03-27-nolwen.jpg)
-
-## Feuilles sèches
-
+![Nolwenn](/images/2020-03-27-nolwen.jpg){: .align-left}
+**Feuilles sèches**
 Je sens une odeur subtile à la première inspiration, mais quand j'inspire une deuxième fois je ne la sens plus. Ça me rappelle quand je suis surprise par une odeur de pin : je la sens bien la première fois, mais ne la retrouve plus quand je la cherche. Il faudrait presque la laisser de côté, ne plus y prêter attention pour y revenir.
 
 ## Première infusion

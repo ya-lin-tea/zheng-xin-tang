@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: single
 title: À propos
 permalink: /a-propos/
 ---
 
 ![ya-lin](/images/a-propos-ya-lin.jpg)
+
 Cheng Ya Lin
 
  Qualifiée maître-assistante de l’art du thé chinois par « Chinese Tea Culture Academy » à Taïwan.

@@ -20,15 +20,44 @@
 
 title: Zheng Xin Tang
 email: bizienyalin@gmail.com
+name: Ya-Lin
+subtitle: école de thé
+locale: "fr"
 description: >- # this means to ignore newlines until "baseurl:"
   Montrer le goût authentique, la culture et la Voie du thé chinois au plus grand nombre.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ecoledethe.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ecoledethe.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ya-lin-tea
+repository: "ya-lin-tea/zheng-xin-tang"
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dirt
+# masthead_title: "My Custom Title"
+# logo: "/assets/images/88x88.png"
+# teaser: /images/banner.jpg
+# header:
+#   teaser: /images/banner.jpg
+# read_time: true
+# breadcrumbs: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 show_excerpts: true
+include: ["_pages"]
 plugins:
   - jekyll-feed
 # Exclude from processing.

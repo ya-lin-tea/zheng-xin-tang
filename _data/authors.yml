@@ -1,0 +1,11 @@
+Ya-Lin:
+  name: Ya-Lin
+  bio: "Qualifiée maître-assistante de l’art du thé chinois par « Chinese Tea Culture Academy » à Taïwan."
+  avatar: "/images/ya-lin.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bizienyalin@gmail.com"
+    - label: "école de thé"
+      icon: "fas fa-fw fa-link"
+      url: "https://ecoledethe.com"
