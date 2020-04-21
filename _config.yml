@@ -30,7 +30,7 @@ github_username: ya-lin-tea
 repository: "ya-lin-tea/zheng-xin-tang"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin: dirt
 # masthead_title: "My Custom Title"
 # logo: "/assets/images/88x88.png"
@@ -60,6 +60,7 @@ show_excerpts: true
 include: ["_pages"]
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
