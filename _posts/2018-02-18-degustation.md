@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Dégustation pédagogique
+title: Dégustation pédagogique du 18 février 2018
 author: Ya-Lin
 excerpt: >
-    Pour commencer, j’ai proposé un Wulong Rouge de Taïwan. Les feuilles sèches sont en forme de perles serrées, de couleur brune avec des nuances de jaune et de vert.
+  Pour commencer, j’ai proposé un Wulong Rouge de Taïwan. Les feuilles sèches sont en forme de perles serrées, de couleur brune avec des nuances de jaune et de vert.
 ---
 
 2018年2月18日

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: La grande dégustation
+title: La grande dégustation du 27 janvier 2019
 author: Ya-Lin
 excerpt: >
     Le dimanche 27 janvier 2019, nous avons organisé notre 2ème édition de Grande Dégustation. Le thème : les 10 grands thés de Taiwan, comme l'an dernier.

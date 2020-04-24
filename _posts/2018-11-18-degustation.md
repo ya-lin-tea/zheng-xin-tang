@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Cours de thé et dégustation
+title: Cours de thé et dégustation du 18 novembre 2018
 author: Ya-Lin
 excerpt: >
   Ce dimanche ensoleillé, il fait froid dehors, une belle ambiance à l'atelier. Nous nous réunissons au nom du thé. Jim nous a fait une cérémonie du Gong Fu Cha.

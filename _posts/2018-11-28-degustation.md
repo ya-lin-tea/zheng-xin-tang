@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Cours de thé et dégustation
+title: Cours de thé et dégustation de 28 novembre 2018
 author: Ya-Lin
 excerpt: >
     Ce lundi de fin d'automne, nous avons eu un peu de soleil. J'ai emmené de Chine cet été un Fuding Bai Cha. J'ai également proposé deux autres thés offerts par mes amis. C'est l'occasion de les partager.
