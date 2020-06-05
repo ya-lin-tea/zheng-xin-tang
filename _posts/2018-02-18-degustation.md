@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Dégustation pédagogique du 18 février 2018
 author: Ya-Lin
 excerpt: >

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Dégustation pédagogique
 author: Ya-Lin
 excerpt: >

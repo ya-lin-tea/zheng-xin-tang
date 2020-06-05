@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 冬片 - Dong Pian et 阿里山 - A Li Shan
 author: Ya-Lin
 excerpt: >

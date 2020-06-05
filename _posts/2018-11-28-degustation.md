@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Cours de thé et dégustation de 28 novembre 2018
 author: Ya-Lin
 excerpt: >

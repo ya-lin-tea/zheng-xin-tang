@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: La grande dégustation du 27 janvier 2019
 author: Ya-Lin
 excerpt: >

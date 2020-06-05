@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Wu Wo Cha Hui
 author: Ya-Lin
 excerpt: >

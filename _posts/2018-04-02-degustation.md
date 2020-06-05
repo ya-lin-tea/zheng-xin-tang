@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Dégustation pédagogique du 25 mars 2018
 author: Ya-Lin
 excerpt: >

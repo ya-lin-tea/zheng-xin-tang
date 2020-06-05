@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: La dégustation des 4 thés rouges
 author: Ya-Lin
 excerpt: >

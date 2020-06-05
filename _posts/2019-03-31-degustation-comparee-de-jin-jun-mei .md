@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Dégustation comparée de Jin Jun Mei - 金駿眉
 author: Ya-Lin
 excerpt: >
