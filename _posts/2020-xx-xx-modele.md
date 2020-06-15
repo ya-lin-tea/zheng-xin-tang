@@ -6,3 +6,4 @@ published: false
 ---
 
 Le texte ...
+![description d'image](/images/nom de l'image.jpg)
