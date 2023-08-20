@@ -1,5 +1,3 @@
 main:
-  - title: "Cours"
-    url: /inscription/
   - title: "À propos"
     url: /a-propos/
